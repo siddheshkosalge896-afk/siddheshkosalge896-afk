@@ -33,7 +33,7 @@
 ### 🚀 Projects
 
 - **[Personal Portfolio Website](https://github.com/siddheshkosalge896-afk/Personalportfoliowebsite)**
-  My personal portfolio site, built with CSS.
+  My personal portfolio site, built with HTML, CSS, and JavaScript.
 
 - **[Travel Recommendation Website](https://github.com/siddheshkosalge896-afk/Travel-Recommendation-Website)**
   A travel recommendation site built with HTML, CSS, and JavaScript — featuring search, beach, and temple recommendations.
