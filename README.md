@@ -5,12 +5,12 @@
 - 🔭 I'm currently working on **Web Development**
 - 🌱 I'm currently learning **HTML, CSS, JavaScript, React**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, C, C++**
-- 📫 How to reach me: **YOUR_EMAIL@example.com**
+- 📫 How to reach me: **siddheshkosalge896@gmail.com**
+
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/siddheshkosalge)
 
 ### Languages and Tools:
 
